@@ -1,0 +1,126 @@
+body {
+    color: #696969;
+}
+
+.carousel-inner .item img{
+    width: 100%;
+}
+.carousel-inner .item{
+   max-height: 860px;
+}
+.card{
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.05)!important;
+    margin: 30px 20px;
+    padding-bottom: 20px;
+    -moz-box-shadow: 1px 1x 5px #888888;
+    -webkit-box-shadow: 1px 1px 5px #888888;
+    box-shadow: 1px 1px  5px #888888;
+}
+.card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+}
+.card p {
+    padding: 20px;
+}
+.card .btn-card {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.15)!important;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+.lorem span{
+    padding-right: 40px;
+
+}
+.lorem {
+    text-align: center;
+    margin: 30px 0;
+    list-style: none;
+    font-size: 130%;
+    padding: 0;
+}
+.nav-tabs li{
+    text-align: center;
+    width: 30.33333333%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 0 1.5%;
+}
+.nav-tabs .active a{
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+.nav-tabs li a{
+    color: #696969 !important;
+    font-weight: bold;
+    font-size: 120%;
+}
+.lorem span{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.nav-tabs{
+    padding-top: 65px;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.25) !important;
+
+
+}
+.area-cinza{
+    background-color: rgba(0, 0, 0, 0.05);
+}
+#dolor .container {
+    margin-top: 30px;
+
+}
+.carousel-indicators {
+    bottom: -50px !important;
+}
+.carousel-indicators li {
+background-color: rgba(0, 0, 0, 0.12);
+    height: 15px;
+    width: 15px;
+    margin: 0 10px;
+}
+.carousel-indicators .active {
+    background-color: rgba(0, 0, 0, 0.25);
+    height: 17px;
+    width: 17px;
+    margin: 0 10px;
+}
+.table thead tr th, td {
+    text-align: center !important;
+}
+.table .first-line {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+    color: white;
+}
+.hidden-xs {
+    padding-top: 30px !important;
+    padding-right: 45px !important;
+    padding-left: 0 !important;
+    padding-bottom: 20px;
+
+}
+.third-line td{
+    background-color: rgba(0, 0, 0, 0.1)!important;
+}
+.table-bordered {
+    border-bottom-color: black;
+}
+.table-bordered tr td, th {
+    border: 0.5px solid rgba(0, 0, 0, 0.25) !important;
+}
+#dolor{
+    padding-bottom: 20px;
+}
+.tab-dolor p{
+    font-size: 120%;
+}
